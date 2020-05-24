@@ -5,8 +5,12 @@ This project was implemented on Amazon SageMaker. It implements a sentimental an
 The files are:
 
 1- SageMaker Project.ipynb: which is a notebook that does the data analysis and training of the model.
+
 2- train.py: includes the training model used for classification into positive or negative reviews.
+
 3- report.html: shows an example of the functioning of the trained model.
+
 4- predict.py: is the function needed by the endpoint to make process the input and make predictions about its sentiment.
+
 5- index.html: is an example of the endpoint URL
 
